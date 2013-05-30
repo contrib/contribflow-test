@@ -1,5 +1,6 @@
 {
+  "owner": "contrib",
+  "project": "contribflow-test",
   "developmentBranch": "master",
-  "releaseBranch": "stable",
-  "upstream": "contrib"
+  "releaseBranch": "stable"
 }
