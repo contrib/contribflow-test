@@ -1,0 +1,5 @@
+{
+  "developmentBranch": "master",
+  "releaseBranch": "stable",
+  "upstream": "contrib"
+}
