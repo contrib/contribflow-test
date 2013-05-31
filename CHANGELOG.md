@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 ## Unreleased (HEAD)
-_(none)_
+* Test 7 added [view](https://github.com/contrib/contribflow-test/pull/7)
 
 --------------------
 
