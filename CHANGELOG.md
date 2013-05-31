@@ -3,6 +3,7 @@ CHANGELOG
 
 ## Unreleased (HEAD)
 * Test 7 added [view](https://github.com/contrib/contribflow-test/pull/7)
+* Hotfix #3 [view](https://github.com/contrib/contribflow-test/pull/10)
 
 --------------------
 
