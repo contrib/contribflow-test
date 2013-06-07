@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 ## Unreleased (HEAD)
-_(none)_
+* Owner hotfix tested ([view](https://github.com/contrib/contribflow-test/pull/13))
 
 --------------------
 
