@@ -2,9 +2,12 @@ CHANGELOG
 =========
 
 ## Unreleased (HEAD)
-* Owner hotfix tested ([view](https://github.com/contrib/contribflow-test/pull/13))
+_(none)_
 
 --------------------
+
+## 0.1.2 (2013-06-07)
+* Owner hotfix tested ([view](https://github.com/contrib/contribflow-test/pull/13))
 
 ## 0.1.1 (2013-05-30)
 * Test 7 added [view](https://github.com/contrib/contribflow-test/pull/7)
