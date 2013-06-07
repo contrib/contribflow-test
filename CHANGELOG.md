@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 ## Unreleased (HEAD)
-_(none)_
+* Tested creating a feature as the roject owner ([view](https://github.com/contrib/contribflow-test/pull/12))
 
 --------------------
 
